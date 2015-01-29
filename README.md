@@ -7,5 +7,5 @@
 
 ## Description
 
-This will be the main page for the academy, linking to all student projects.
+This will be the main page for the academy, linking to all student projects. We love open source data.
 
