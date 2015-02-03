@@ -1,6 +1,6 @@
 # nycdatascience.github.io
 
-
+Welcome!
 
  Copyright @ NYC Data Science Academy
 
